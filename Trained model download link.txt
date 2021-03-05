@@ -1,0 +1,6 @@
+
+Segnet model download link (lgraph.mat):
+https://bama365-my.sharepoint.com/:u:/g/personal/tghosh_crimson_ua_edu/EWrJkEG6zERBkPAv9vZTblgBHx9xgH67RkejdygWX9J4FQ?e=PeJgF7
+
+Trained Segnet network download link (CEtrainedSegNet.mat):
+https://bama365-my.sharepoint.com/:u:/g/personal/tghosh_crimson_ua_edu/ETfaEB39QLxMqUQudI6pC8oB6uHZ3wP2uVHIUzTk5L52Cg?e=lO3f7i
